@@ -1,4 +1,5 @@
 # Author: Abdullah Alqeisi
+#asd
 
 $temp = $env:Username
 $temp = $temp.toCharArray()
